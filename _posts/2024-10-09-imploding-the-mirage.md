@@ -15,17 +15,17 @@ hidden: true
 ---
 
 
-As a data engineer and lifelong learner, I've always been drawn to understanding the intricacies of technology. While delving into the building blocks can provide a solid foundation, I've come to realize that focusing solely on individual components can hinder our collective understanding and limit our potential for growth. By embracing the broader context and the contributions of others, we can unlock new possibilities and drive meaningful change in the world.
+As a data engineer and lifelong learner, I've always been drawn to understanding the intricacies of technology. While delving into the building blocks can provide a solid foundation, I've come to realise that focusing solely on individual components can hinder our collective understanding and limit our potential for growth. By embracing the broader context and the contributions of others, we can unlock new possibilities and drive meaningful change in the world.
 
 > The ability to use a screwdriver doesn't require a deep knowledge of its manufacturing process.
 
 ![Alt text](/assets/img/Bf109_side.webp)
 
-While breaking concepts down into their fundamental components provides clarity, I’ve come to understand that this approach can sometimes limit my perspective. It can trap me in a loop of over-analysis, where the focus shifts from application to endless dissection. I realized that true growth comes from learning in a way that bridges theory with real-world impact—leveraging collective knowledge and collaborative learning to create meaningful change. By embracing broader perspectives and the experiences of others, I can contribute more effectively to the world.
+While breaking concepts down into their fundamental components provides clarity, I’ve come to understand that this approach can sometimes limit my perspective. It can trap me in a loop of over-analysis, where the focus shifts from application to endless dissection. I ascertained that true growth comes from learning in a way that bridges theory with real-world impact—leveraging collective knowledge and collaborative learning to create meaningful change. By embracing broader perspectives and the experiences of others, I can contribute more effectively to the world.
 
 # The Obsession and Conclusion
 
-As I delve into the world of video games and music, I’ve come to realize that while domain knowledge is undoubtedly beneficial, having too much of it can sometimes be limiting. It’s easy to get bogged down by details that can obstruct creativity.
+As I delve into the world of video games and music, I’ve come to comprehend that while domain knowledge is undoubtedly beneficial, having too much of it can sometimes be limiting. It’s easy to get bogged down by details that can obstruct creativity.
 
 I started with C++ because of its high performance and object-oriented approach, which appealed to me for the level of control it offers. Instead of relying on pre-built libraries, I initially wanted to manipulate each pixel on the screen and handle audio streams byte by byte—thinking that this would deepen my understanding.
 

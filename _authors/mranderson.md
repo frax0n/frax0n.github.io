@@ -4,7 +4,7 @@ photo: https://media.licdn.com/dms/image/v2/D4D03AQG384kpk2D3Ig/profile-displayp
 name: Harsh Dutta
 display_name: Harsh Dutta
 position: A Rockstar
-bio: Bulletproof hacker passionate about leather clothes.
+bio: Have a cup of LIBER-TEA
 github_username: frax0n
 instagram_username: frax0n
 linkedin_username: harsh-mahaan-dutta
