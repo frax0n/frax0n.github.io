@@ -25,7 +25,7 @@ I currently have five (with sixth on its way) music CDs from them for some reaso
 
 ## My favourite albums -
 ### Hot Fuss - 
-![Alt text](/assets/img/The_Killers/hot_Fuss.png)
+![Alt text](/assets/img/The_Killers/hotfuss.png)
 
 Ah, the audio CD I've wanted the most! It costs 13 times the price of other albums because it’s the most sought after by collectors item when it comes to The Killers. Hot Fuss, their debut album, marked the beginning of their legacy and opened a window for the public to experience the magic they created. The album has a rather crude production quality, sounding compressed, but that’s part of its charm.
 ### Some notable songs from this album:
