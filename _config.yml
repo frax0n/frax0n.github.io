@@ -1,6 +1,6 @@
 # Site Settings
 name: Endeavours
-title: A Personal Blog
+title: Endeavours
 description: Just a place to express myself and show my various adventures
 # tags:
 #   - blog
@@ -14,10 +14,7 @@ menu:
     url: /
   - title: About
     url: /about
-  - title: Contact
-    url: /contact
-  - title: Feed
-    url: /feed.xml
+
 email: harsh.dutta338@gmail.com
 # See: https://disqus.com/
 # disqus_username: disqus_username
@@ -30,7 +27,7 @@ email: harsh.dutta338@gmail.com
 # Remove the item if you don't need it
 github_username: frax0n
 instagram_username: frax0n
-linkedin_username: harshdutta
+linkedin_username: harsh-mahaan-dutta
 
 
 # Posts Settings
