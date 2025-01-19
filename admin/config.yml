@@ -512,4 +512,8 @@ collections:
             hint: "URL where the user will be redirected for after submit the contact form. Ex: /contact/message-sent/"
             required: false
 
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  syntax_highlighter: rouge
 
