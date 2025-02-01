@@ -87,7 +87,7 @@ The traversal stays within bounds.
 
 Points don’t visually "jump" across the screen width or height.
 
-The path is confined within a central circle for aesthetic purposes.
+The path is confined within a central circle for aesthetic purposes which is turned off right now (Radius 4000 is out of bounds).
 
 The result looks beautiful in motion, especially when visualizing the traversal over time.
 
@@ -199,7 +199,7 @@ void RandomTraverse :: RandomTraverseBitShift() {
 This implementation introduces randomness through XOR operations and bit-shifting, effectively scrambling the bits of the seed. The result is a much less predictable sequence of numbers.
 
 
-## Improve statistical randomness
+## Conclusion
 
 
 Here comes an end to pursuit for understanding random numbers for now.
