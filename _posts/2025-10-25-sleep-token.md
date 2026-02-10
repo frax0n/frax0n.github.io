@@ -4,7 +4,7 @@ layout: post
 title: "Sleep Token"
 subtitle:
 description: Exploring my current obsession
-image: /assets/img/SleepToken/cover.png
+image: /assets/img/SleepToken/st.png
 optimized_image:
 category: music
 tags: RockBands
@@ -13,8 +13,6 @@ paginate: false
 ---
 
 # Sleep Token : Vessel's Playground
-
-![Alt text](/assets/img/SleepToken/st.png)
 
 Exploring the lyrical and musical masterpiece that is Sleep Token.
 Just wanted to explore some of the beautiful songs produced by this thankfully not so underrated now **Sleep Token**.
@@ -32,17 +30,17 @@ This song starts of as a deep meloncholic song which shifts into hip hop at the 
 
 <div align="center">
 
-**“Well, I thought I could resist you**<br>
-**But something in me just can't help but insist**<br>
-**To blur the lines just one last time so**<br>
-**When's the last time you tasted blood?**<br>
-**And what will it take to stem the flood?**<br><br>
-
-**And I am caught in time**<br>
-**Like clockwork beneath the permafrost**<br>
-**I might lose my mind**<br>
-**Back to back with oblivion**<br>
-**And you might breathe that burning**
+“Well, I thought I could resist you<br>
+But something in me just can't help but insist<br>
+To blur the lines just one last time so<br>
+When's the last time you tasted blood?<br>
+And what will it take to stem the flood?<br><br>
+And I am caught in time<br>
+Like clockwork beneath the permafrost<br>
+I might lose my mind<br>
+Back to back with oblivion<br>
+And you might breathe that burning
+<br>
 </div>
 
 The dark lyrics while conveying the deep emotions are an absolute pleasure to listen with absolute banger of production to match.
@@ -62,17 +60,17 @@ The lyrics talk about the expectations that come with being a celebrity and the 
 
 <div align="center">
 
-**They ask me, "Is it going good in the garden?"**<br>
-**Say, "I'm lost, but I beg no pardon"**<br>
-**Up on the dice, but low on the cards**<br>
-**I try not to talk about how it's harder now**<br>
-**Can I get a mirror side-stage?**<br>
-**Looking sideways at my own visage, gettin' worse**<br>
-**Every time they try to shout my real name just to get a rise from me**<br>
-**Acting like I'm never stressed out by the hearsay**<br>
-**I guess that's what I get for tryna hide in the limelight**<br>
-**Guess that's what I get for having 20/20 hindsight**<br>
-**Everybody wants eyes on 'em, I just wanna hear you sing that top line**<br>
+They ask me, "Is it going good in the garden?"<br>
+Say, "I'm lost, but I beg no pardon"<br>
+Up on the dice, but low on the cards<br>
+I try not to talk about how it's harder now<br>
+Can I get a mirror side-stage?<br>
+Looking sideways at my own visage, gettin' worse<br>
+Every time they try to shout my real name just to get a rise from me<br>
+Acting like I'm never stressed out by the hearsay<br>
+I guess that's what I get for tryna hide in the limelight<br>
+Guess that's what I get for having 20/20 hindsight<br>
+Everybody wants eyes on 'em, I just wanna hear you sing that top line<br>
 <br>
 </div>
 
@@ -85,19 +83,19 @@ I'd say this is the most somber song by Sleep token. Absolutely pessimistic natu
 
 <div align="center">
 
-**And nobody told me I'd be begging for relief**<br>
-**When what is silent to you feels like it's screaming to me**<br>
-**Well, nobody told me I'd get tired of myself**<br>
-**When it all looks like heaven, but it feels like hell**<br>
+And nobody told me I'd be begging for relief<br>
+When what is silent to you feels like it's screaming to me<br>
+Well, nobody told me I'd get tired of myself<br>
+When it all looks like heaven, but it feels like hell<br>
 
-**When the river runs dry and the curtain is called**<br>
-**How will I know if I can't see the bottom?**<br>
-**Come up for air and choke on it all**<br>
-**No one else knows that I've got a problem**<br>
-**What if I can't get up and stand tall?**<br>
-**What if the diamond days are all gone, and**<br>
-**Who will I be when the empire falls?**<br>
-**Wake up alone, and I'll be forgotten**<br>
+When the river runs dry and the curtain is called<br>
+How will I know if I can't see the bottom?<br>
+Come up for air and choke on it all<br>
+No one else knows that I've got a problem<br>
+What if I can't get up and stand tall?<br>
+What if the diamond days are all gone, and<br>
+Who will I be when the empire falls?<br>
+Wake up alone, and I'll be forgotten<br>
 
 </div>
 
